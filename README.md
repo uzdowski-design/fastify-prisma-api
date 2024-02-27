@@ -1,8 +1,8 @@
-# FASTIFY, PRISMA, POSTGRESQL API
+# FASTIFY AUTH API
 
 ## API to auth users and create products
 
-Built with Fastify, Prisma, and Postgresql.
+Built with _Fastify_, _Prisma_, and _Postgresql_.
 
 ### Development
 
